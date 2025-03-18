@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace LibreriaVergencia
+namespace Alex.LibreriaVergencia
 {
     public static class FuncionesVergencia
     {
