@@ -4,6 +4,11 @@
   "displayName": "Libreria de Vergencia Ocular",
   "description": "Funciones para el procesamiento de datos de vergencia ocular.",
   "unity": "2021.3",
+  "keywords": [
+    "vergencia",
+    "tdah",
+    "analisis"
+  ],
   "author": {
     "name": "Alex",
     "email": "alexcanas08@gmail.com",
